@@ -1,0 +1,100 @@
+{"level":"info","ts":1634104175.7425835,"msg":"Failed to create chaincode!!!"}
+{"level":"error","ts":1634104477.7729948,"msg":"input len!!{str: 15 0 4 <nil>}"}
+{"level":"error","ts":1634104477.7730246,"msg":"invoke args!!{str: 15 0 set <nil>}"}
+{"level":"error","ts":1634104477.7730281,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104477.7730312,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104477.773034,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104477.7730365,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104477.773039,"msg":"invoke args onchaindata!!{data: 15 0 667 <nil>}"}
+{"level":"error","ts":1634104477.773042,"msg":"invoke args!!{str: 15 0 667 <nil>}"}
+{"level":"error","ts":1634104477.7730446,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104477.773047,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104477.7730496,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104477.7730522,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104477.7730548,"msg":"invoke args onchaindata!!{data: 15 0 669 <nil>}"}
+{"level":"error","ts":1634104477.7730575,"msg":"invoke args!!{str: 15 0 669 <nil>}"}
+{"level":"error","ts":1634104517.2091925,"msg":"input len!!{str: 15 0 1 <nil>}"}
+{"level":"error","ts":1634104517.2092233,"msg":"invoke args!!{str: 15 0 query <nil>}"}
+{"level":"error","ts":1634104517.209227,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104517.2092297,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104517.2092326,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104556.465965,"msg":"input len!!{str: 15 0 1 <nil>}"}
+{"level":"error","ts":1634104556.4659944,"msg":"invoke args!!{str: 15 0 delete <nil>}"}
+{"level":"error","ts":1634104556.465998,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104556.466001,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104556.466004,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104600.5936067,"msg":"input len!!{str: 15 0 4 <nil>}"}
+{"level":"error","ts":1634104600.5936515,"msg":"invoke args!!{str: 15 0 set <nil>}"}
+{"level":"error","ts":1634104600.5936553,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104600.5936584,"msg":"invoke args onchaindata!!{data: 15 0 669 <nil>}"}
+{"level":"error","ts":1634104600.593661,"msg":"invoke args!!{str: 15 0 669 <nil>}"}
+{"level":"error","ts":1634104600.5936637,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104600.5936663,"msg":"invoke args onchaindata!!{data: 15 0 667 <nil>}"}
+{"level":"error","ts":1634104600.5936692,"msg":"invoke args!!{str: 15 0 667 <nil>}"}
+{"level":"error","ts":1634104600.5936718,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104600.5936742,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104600.593677,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634104600.5936797,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634104600.5936823,"msg":"invoke args onchaindata!!{data: 15 0 669 <nil>}"}
+{"level":"error","ts":1634104600.593685,"msg":"invoke args!!{str: 15 0 669 <nil>}"}
+{"level":"error","ts":1634105067.7498944,"msg":"input len!!{str: 15 0 4 <nil>}"}
+{"level":"error","ts":1634105067.749931,"msg":"invoke args!!{str: 15 0 set <nil>}"}
+{"level":"error","ts":1634105067.749935,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105067.749938,"msg":"invoke args onchaindata!!{data: 15 0 670 <nil>}"}
+{"level":"error","ts":1634105067.7499406,"msg":"invoke args!!{str: 15 0 670 <nil>}"}
+{"level":"error","ts":1634105067.7499435,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105067.7499464,"msg":"invoke args onchaindata!!{data: 15 0 667 <nil>}"}
+{"level":"error","ts":1634105067.749949,"msg":"invoke args!!{str: 15 0 667 <nil>}"}
+{"level":"error","ts":1634105067.749961,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105067.7499638,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634105067.7499664,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634105067.7499685,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105067.749971,"msg":"invoke args onchaindata!!{data: 15 0 669 <nil>}"}
+{"level":"error","ts":1634105067.7499735,"msg":"invoke args!!{str: 15 0 669 <nil>}"}
+{"level":"error","ts":1634105093.4419386,"msg":"input len!!{str: 15 0 4 <nil>}"}
+{"level":"error","ts":1634105093.4419715,"msg":"invoke args!!{str: 15 0 set <nil>}"}
+{"level":"error","ts":1634105093.4419749,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105093.4419777,"msg":"invoke args onchaindata!!{data: 15 0 671 <nil>}"}
+{"level":"error","ts":1634105093.4419804,"msg":"invoke args!!{str: 15 0 671 <nil>}"}
+{"level":"error","ts":1634105093.441983,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105093.4419856,"msg":"invoke args onchaindata!!{data: 15 0 667 <nil>}"}
+{"level":"error","ts":1634105093.4419878,"msg":"invoke args!!{str: 15 0 667 <nil>}"}
+{"level":"error","ts":1634105093.4419904,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105093.4419928,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634105093.4419954,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634105093.4419978,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634105093.4420002,"msg":"invoke args onchaindata!!{data: 15 0 669 <nil>}"}
+{"level":"error","ts":1634105093.4420028,"msg":"invoke args!!{str: 15 0 669 <nil>}"}
+{"level":"error","ts":1634179616.4517827,"msg":"input len!!{str: 15 0 4 <nil>}"}
+{"level":"error","ts":1634179616.4644141,"msg":"invoke args!!{str: 15 0 set <nil>}"}
+{"level":"error","ts":1634179616.4644344,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179616.4645953,"msg":"invoke args onchaindata!!{data: 15 0 672 <nil>}"}
+{"level":"error","ts":1634179616.4646044,"msg":"invoke args!!{str: 15 0 672 <nil>}"}
+{"level":"error","ts":1634179616.4646075,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179616.4646103,"msg":"invoke args onchaindata!!{data: 15 0 667 <nil>}"}
+{"level":"error","ts":1634179616.4646134,"msg":"invoke args!!{str: 15 0 667 <nil>}"}
+{"level":"error","ts":1634179616.4646158,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179616.4646187,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634179616.4646215,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634179616.4646242,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179616.4646268,"msg":"invoke args onchaindata!!{data: 15 0 669 <nil>}"}
+{"level":"error","ts":1634179616.4646294,"msg":"invoke args!!{str: 15 0 669 <nil>}"}
+{"level":"error","ts":1634179750.9524972,"msg":"input len!!{str: 15 0 4 <nil>}"}
+{"level":"error","ts":1634179750.9525793,"msg":"invoke args!!{str: 15 0 set <nil>}"}
+{"level":"error","ts":1634179750.9525833,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179750.9525864,"msg":"invoke args onchaindata!!{data: 15 0 673 <nil>}"}
+{"level":"error","ts":1634179750.9525893,"msg":"invoke args!!{str: 15 0 673 <nil>}"}
+{"level":"error","ts":1634179750.9525921,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179750.9525948,"msg":"invoke args onchaindata!!{data: 15 0 667 <nil>}"}
+{"level":"error","ts":1634179750.9525976,"msg":"invoke args!!{str: 15 0 667 <nil>}"}
+{"level":"error","ts":1634179750.9526,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179750.9526026,"msg":"invoke args onchaindata!!{data: 15 0 668 <nil>}"}
+{"level":"error","ts":1634179750.9526055,"msg":"invoke args!!{str: 15 0 668 <nil>}"}
+{"level":"error","ts":1634179750.9526231,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179750.9526713,"msg":"invoke args onchaindata!!{data: 15 0 669 <nil>}"}
+{"level":"error","ts":1634179750.9526763,"msg":"invoke args!!{str: 15 0 669 <nil>}"}
+{"level":"error","ts":1634179771.7546787,"msg":"input len!!{str: 15 0 1 <nil>}"}
+{"level":"error","ts":1634179771.75471,"msg":"invoke args!!{str: 15 0 query <nil>}"}
+{"level":"error","ts":1634179771.7547138,"msg":"invoke args len!!{len: 11 3  <nil>}"}
+{"level":"error","ts":1634179771.7547166,"msg":"invoke args onchaindata!!{data: 15 0 673 <nil>}"}
+{"level":"error","ts":1634179771.7547195,"msg":"invoke args!!{str: 15 0 673 <nil>}"}

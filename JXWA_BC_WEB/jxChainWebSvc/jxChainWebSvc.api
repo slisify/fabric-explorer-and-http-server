@@ -1,0 +1,51 @@
+info(
+	author: "yanghao"
+	date:   "2021-09-17"
+	desc:   "api语法示例及语法说明"
+)
+
+//表述通过http请求传递上链的数据
+//Name string `path:"name,options=you|me"`
+type QueryData {
+	AlertorID string `json:"alertorID"`
+}
+
+type DeleteData {
+	AlertorID string `json:"alertorID"`
+}
+
+type OnChainDataPut {
+	AlertorID      string `json:"alertorID"`        //传感器ID
+	AlertTime      string `json:"alertTime"`      //发出警报的时间
+	HouseNumber    string `json:"houseNumber"`    //住宅编号或者房建号
+	HouseOwnerName string `json:"houseOwnerName"` //住户的名字
+}
+
+//根据对应的hash值等进行查询上链的数据
+/*
+type QueryData {
+	Name string `path:"name,options=you|me"`
+}
+*/
+
+//返回上链的结果，以及相关的hash值
+type onChainStatus {
+	Message string `json:"message"`
+}
+
+service jxChainWebSvc-api {
+	@handler JxChainDataGetHandler
+	get /get (QueryData) returns (OnChainDataPut)
+}
+
+service jxChainWebSvc-api {
+	//定义具体的http请求以及对应的逻辑
+	@handler JxChainDataPutHandler
+	post /put (OnChainDataPut) returns (onChainStatus)
+}
+
+service jxChainWebSvc-api {
+	//定义具体的http请求以及对应的逻辑
+	@handler JxChainDataDeleteHandler
+	post /delete (DeleteData) returns (onChainStatus)
+}
